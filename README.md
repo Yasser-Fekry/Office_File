@@ -1,4 +1,4 @@
-## **\*\*\*\***\_\_**\*\*\*\*** Install **\*\***\_\_\_**\*\*** ☕
+## Code Install ☕💻
 
 ```
 setup /configure configuration.xml
